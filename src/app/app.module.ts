@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-//routes
+// Routes
 import { APP_ROUTING } from './app.routes';
 
 import { AppComponent } from './app.component';
